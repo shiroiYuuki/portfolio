@@ -3,7 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Trigger workflow ketika push ke branch 'main'
+      - main
+      - master  # Trigger workflow ketika push ke branch 'main' atau 'master'
 
 # Set izin (permissions) yang dibutuhkan untuk mendeploy ke GitHub Pages
 permissions:
@@ -33,7 +34,7 @@ jobs:
           cache: 'npm'
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: Build Code
         run: npm run build
