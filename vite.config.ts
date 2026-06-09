@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(({ mode }) => {
   const isProd = mode === 'production';
   return {
-    base: isProd ? '/website/' : '/',
+    base: isProd ? '/portfolio/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
