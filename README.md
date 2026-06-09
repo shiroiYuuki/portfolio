@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Yuuki.Onion Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website.
 
-This contains everything you need to run your app locally.
+Here you'll find my projects, skills, and learning journey as I continue exploring technology and creativity.
 
-View your app in AI Studio: https://ai.studio/apps/4321f35a-50ef-4bb9-9567-e0d7a27f63ea
+## Interests
 
-## Run Locally
+- Programming
+- Linux
+- Networking
+- Artificial Intelligence
+- Digital Design
+- Video Editing
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- TypeScript
+- HTML
+- CSS
+- Vite
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Website
+
+🌐 https://shiroiyuuki.github.io/website/
+
+## Author
+
+**Yuuki.Onion**
+
+Learning, building, and improving one project at a time.
