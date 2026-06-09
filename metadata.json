@@ -1,0 +1,6 @@
+{
+  "name": "Yuuki.Onion Portfolio",
+  "description": "Tech playground and digital identity portfolio for Yuuki.Onion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
